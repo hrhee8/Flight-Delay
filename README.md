@@ -1,7 +1,7 @@
 # IE 300 Flight Delay Project
 
 
-#Calculated the probability of flight being delayed with multiple variables
+Calculated the probability of flight being delayed with multiple variables
 
 
 •  Implementation of Naive-Bayes Classifier 
