@@ -1,4 +1,4 @@
-# IE 300 Flight Delay Project
+# Flight Delay Project (Data Analysis via Python)
 
 
 Calculated the probability of flight being delayed with multiple variables
