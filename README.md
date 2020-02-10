@@ -1,7 +1,7 @@
 # Flight Delay Project (Data Analysis via Python)
 
 
-Calculated the probability of flight being delayed with multiple variables
+Calculated the probability of flight being delayed with multiple variables, using decision tree method
 
 
 •  Implementation of Naive-Bayes Classifier 
